@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Aaronduo7536
-- 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ... The basics on coding princiapls 
-- 💞️ I’m looking to collaborate on ... all platforms
-- 📫 How to reach me ... aadu7536@colorado.edu
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I play frisbee! 
+My name is Aaron Duong, and I am currently a student at CU Boulder studying CS and Business! 
 
 <!---
 Aaronduo7536/Aaronduo7536 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
